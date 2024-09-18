@@ -10,7 +10,7 @@ Este repositório reúne soluções para exercícios de programação em Java, r
 O repositório serve como:
 - Um registro do aprendizado contínuo através da prática de exercícios de Java
 - Uma maneira de reforçar o entendimento de conceitos importantes, como estruturas de dados, controle de fluxo, manipulação de strings, e muitos mais
-- Um espaço para revisar soluções e colaborar com outros desenvolvedores interessados em refatoração e otimização
+- Um espaço para revisar soluções e colaborar com outros desenvolvedores interessados em refatoração e otimização.
 
 
 # Estrutura do Repositório
